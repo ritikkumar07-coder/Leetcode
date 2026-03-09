@@ -5,6 +5,9 @@ class Solution {
             nums[i]=nums[i-1]+nums[i];
 
 
+
+
+
         }
         return nums;
     }
