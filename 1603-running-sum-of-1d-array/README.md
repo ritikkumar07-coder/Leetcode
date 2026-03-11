@@ -20,7 +20,7 @@
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [3,1,2,10,1,1]
+<strong>Input:</strong> nums = [3,1,2,10,1]
 <strong>Output:</strong> [3,4,6,16,17]
 </pre>
 
