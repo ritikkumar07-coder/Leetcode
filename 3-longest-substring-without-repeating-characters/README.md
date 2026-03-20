@@ -12,7 +12,7 @@
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;bbbbb&quot;
+<strong>Input:</strong> s. = &quot;bbbbb&quot;
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> The answer is &quot;b&quot;, with the length of 1.
 </pre>
