@@ -4,7 +4,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> x = 121
+<strong>Input: </strong> x = 121
 <strong>Output:</strong> true
 <strong>Explanation:</strong> 121 reads as 121 from left to right and from right to left.
 </pre>
