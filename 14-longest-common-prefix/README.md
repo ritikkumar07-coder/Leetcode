@@ -10,9 +10,7 @@
 <strong>Output:</strong> &quot;fl&quot;
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>    
-
-
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> strs = [&quot;dog&quot;,&quot;racecar&quot;,&quot;car&quot;]
