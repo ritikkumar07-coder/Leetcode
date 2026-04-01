@@ -9,7 +9,7 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2026/01/03/untitled-diagramdrawio.png" style="width: 400px; height: 86px;" />
 <pre>
 <strong>Input:</strong> events = [[1,3,2],[4,5,2],[2,4,3]]
-<strong>Output:</strong> 4
+<strong>Output:</strong>   4
 <strong>Explanation: </strong>Choose the green events, 0 and 1 for a sum of 2 + 2 = 4.
 </pre>
 
