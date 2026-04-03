@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/roman-to-integer">Roman to Integer</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Roman numerals are represented by :-seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
+<h2><a href="https://leetcode.com/problems/roman-to-integer">Roman to Integer</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Roman numerals are represented by :-seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code>
+	
+	and <code>M</code>.</p>
 
 <pre>
 <strong>Symbol</strong>       <strong>Value</strong>
