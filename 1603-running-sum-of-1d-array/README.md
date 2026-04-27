@@ -8,9 +8,7 @@
 <pre>
 <strong>Input:</strong> nums = [1,2,3,4]
 <strong>Output:</strong> [1,3,6,10]
-<strong>Explanation:</strong> Running sum is 
-	
-	obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].</pre>
+<strong>Explanation:</strong> Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
@@ -21,7 +19,8 @@
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> nums = [3,1,2,10,1]
+<pre>
+<strong>Input:</strong> nums = [3,1,2,10,1]
 <strong>Output:</strong> [3,4,6,16,17]
 </pre>
 
